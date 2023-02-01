@@ -1,13 +1,16 @@
 
 
 
+
+
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
-## Key Features
+## USED TECHNOLOGIES
 
-* LivePreview - Make changes, See changes
-
-* Sync Scrolling
+* REACT
+* REACT-ROUTER
+* FİREBASE-FİRESTORE
+* FİREBASE-AUTH
 
 
 ## How To Use
