@@ -1,7 +1,7 @@
 
 
 
-![screenshot]([/ss/](https://github.com/fatihtarim1997/react-firebase-bookstore/blob/main/ss/book_list.PNG))
+![screenshot](https://github.com/fatihtarim1997/react-firebase-bookstore/blob/main/ss/book_list.PNG)
 
 ## USED TECHNOLOGIES
 
