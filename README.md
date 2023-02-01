@@ -1,9 +1,7 @@
 
 
 
-
-
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot]([/ss/](https://github.com/fatihtarim1997/react-firebase-bookstore/blob/main/ss/book_list.PNG))
 
 ## USED TECHNOLOGIES
 
@@ -20,7 +18,7 @@ $ npm install
 
 # Run the app
 $ npm start
-```
+
 
 
 
